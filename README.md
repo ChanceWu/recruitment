@@ -1,3 +1,10 @@
+项目介绍：具有实时聊天功能的招聘app，antd-mobile组件能较好的实现移动端的UI效果，简单模拟了招聘及实时聊天这一功能点的开发学习
+
+技术栈：react、redux、express、MongoDB
+
+实现功能：登录注册、信息完善、个人中心、牛人列表、boss列表、消息列表、聊天详情页
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
